@@ -80,13 +80,6 @@ I focus on writing modular, secure, and production-ready backend code.
 - Flask REST APIs  
 - MongoDB storage & automated email workflow  
 
----
-
-# 📊 GitHub Stats
-
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=rammadhav929&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rammadhav929&layout=compact)
 
 ---
 
