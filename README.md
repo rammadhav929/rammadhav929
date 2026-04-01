@@ -82,7 +82,7 @@ I care about writing clean, modular, production-ready code — and making AI act
 - Achieved **83.7% mAP@0.5** for plate detection and **83.6% mAP@0.5** for character detection on custom datasets
 - Developed Flask REST APIs integrated with MongoDB for structured violation record storage
 - Automated the full workflow from image detection to structured license plate text extraction
-- [Live Demo](https://huggingface.co/) *(upload an image to test the model)*
+- [Live Demo](https://huggingface.co/spaces/rammadhav929/yolov8-anpr-demo) *(upload an image to test the model)*
 
 ---
 
@@ -93,7 +93,7 @@ I care about writing clean, modular, production-ready code — and making AI act
 - Implemented JWT access/refresh token workflow securing all protected endpoints
 - Built role-based access control (RBAC) distinguishing admin and regular users via Django permissions
 - Integrated pagination and filtering for efficient API data retrieval
-- Automated CI/CD pipeline with GitHub Actions and deployed on Render — [Live Demo](#)
+- Automated CI/CD pipeline with GitHub Actions and deployed on Render — [Live Demo](https://track-it-03q4.onrender.com/)
 
 ---
 
